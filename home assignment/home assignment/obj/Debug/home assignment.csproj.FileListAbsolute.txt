@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\c#(C-SHARP)  folder\home assignment\home assignment\bin\Debug\home assignment.exe.config
+C:\Users\hp\Documents\c#(C-SHARP)  folder\home assignment\home assignment\bin\Debug\home assignment.exe
+C:\Users\hp\Documents\c#(C-SHARP)  folder\home assignment\home assignment\bin\Debug\home assignment.pdb
+C:\Users\hp\Documents\c#(C-SHARP)  folder\home assignment\home assignment\obj\Debug\home assignment.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\home assignment\home assignment\obj\Debug\home_assignment.Form1.resources
+C:\Users\hp\Documents\c#(C-SHARP)  folder\home assignment\home assignment\obj\Debug\home_assignment.Properties.Resources.resources
+C:\Users\hp\Documents\c#(C-SHARP)  folder\home assignment\home assignment\obj\Debug\home assignment.csproj.GenerateResource.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\home assignment\home assignment\obj\Debug\home assignment.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\home assignment\home assignment\obj\Debug\home assignment.exe
+C:\Users\hp\Documents\c#(C-SHARP)  folder\home assignment\home assignment\obj\Debug\home assignment.pdb
+C:\Users\hp\Documents\c#(C-SHARP)  folder\home assignment\home assignment\obj\Debug\home assignment.exe.config
