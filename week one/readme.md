@@ -22,15 +22,13 @@ In this step, three string variables are created to store the user's name inform
 
 The following screenshot shows how the variables are declared in C#.
 
-![creating variables](<screanshots/creating variables.png>)
+![creating variables](<screanshots/creating variables to store using input.png>)
 
 ```csharp
 string FirstName, SecondName, FullName;
 
 ```
-
 ---
-
 ## 2. Concatenating the First Name and Second Name
 
 In this step, the first name and second name are combined using the `+` operator.
