@@ -1,4 +1,4 @@
-# Discourse chapter 1
+# Discusss chapter 1
 # Week 1 - C# String Concatenation Practice
 
 ## Overview
@@ -22,7 +22,7 @@ In this step, three string variables are created to store the user's name inform
 
 The following screenshot shows how the variables are declared in C#.
 
-![Creating Variables](Screenshots/Creating_Variables.png)
+![creating variables](<screanshots/creating variables.png>)
 
 ```csharp
 string FirstName, SecondName, FullName;
