@@ -10,8 +10,8 @@
     -first way: using clear function
     -second way: assigning empty string. " ";
     -third way: using string.empty;
-
-    note : you can use all of these ways at the textbox control, but in the label control you can not use clear() function. you can use other two ways remained.
+    
+note : you can use all of these ways at the textbox control, but in the label control you can not use clear() function. you can use other two ways remained.
 
   # The following screenshot shows how we can clear textbox in C#. 
 
