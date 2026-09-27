@@ -1,0 +1,55 @@
+# Discusss chapter 2
+# Week 2 - primitive data types and non primitive data types
+     
+## Overview
+  
+   # in this week we discuss datatypes & their types
+
+    primitive data types are claasified in three categories
+
+    -integral types: byte,short,int,long etc
+    -floating point types: float,double,decimal
+    -other basic types:char,boolean,string
+
+  also, non primitive data types are classified in three types
+        -collections: array,list,dictionary
+        -user defined types: class,interface,struct
+        -special types: objects,dynamic,var,delagte
+
+
+  # also we discuss this concept: Assignment Ccompatibility
+    
+    -string= only accept string
+    -int= only accept integer
+    -double = accept int, and double
+    -decimal= accept int, and decimal
+
+ .compiler makes automatic conversion, it happens as implicity.
+ . if you add num at the end that means that number is decimal
+ for xexample:
+ ------------
+ 650m --this means decimal datatype.
+
+ # Explicit conversion
+
+ c# allows you to explicity convert among types which is known as "type casting". 
+ like this : int=decimal -- we use : cast operator();
+
+ # example type casting
+ int wholenumber;
+ decimal money=4500m;
+ wholenumber = money ;
+ wholenumber= (int)money;
+
+  # parse methods
+  converts string to numeric data type,
+  also used cast operator
+
+
+
+
+
+
+
+
+
