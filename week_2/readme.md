@@ -1,9 +1,26 @@
 # Discusss chapter 2
-# Week 2 - primitive data types and non primitive data types
+# Week 2 - we are in chaper two
      
 ## Overview
+
+
+   # in this week we discuss clearing textbox and label controls
+
+    we can clear three ways
+    -first way: using clear function
+    -second way: assigning empty string. " ";
+    -third way: using string.empty;
+
+    note : you can use all of these ways at the textbox control, but in the label control you can not use clear() function. you can use other two ways remained. 
+
+  # exiting form
+  when you want to exit the from you can use this method.
+  this keyword plus .operator plus close() method
+  -sytax:
+  this.close();
   
-   # in this week we discuss datatypes & their types
+
+   # also,we discuss this concept: datatypes & their types
 
     primitive data types are claasified in three categories
 
@@ -30,7 +47,7 @@
  ------------
  650m --this means decimal datatype.
 
- # Explicit conversion
+ # also,we discuss this concept:  Explicit conversion
 
  c# allows you to explicity convert among types which is known as "type casting". 
  like this : int=decimal -- we use : cast operator();
@@ -45,11 +62,10 @@
   converts string to numeric data type,
   also used cast operator
 
+  -syntax:
+  datatype.parse().
+  .when you make changing datatypes you must use same datatype.
 
-
-
-
-
-
+  
 
 
