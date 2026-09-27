@@ -4,23 +4,43 @@
 ## Overview
 
 
-   # in this week we discuss clearing textbox and label controls
+   # in the last week we discussed: clearing textbox and label controls
 
     we can clear three ways
     -first way: using clear function
     -second way: assigning empty string. " ";
     -third way: using string.empty;
 
-    note : you can use all of these ways at the textbox control, but in the label control you can not use clear() function. you can use other two ways remained. 
+    note : you can use all of these ways at the textbox control, but in the label control you can not use clear() function. you can use other two ways remained.
 
-  # exiting form
+  # The following screenshot shows how we can clear textbox in C#. 
+
+    ![clearing_textboxes](<screanshots/Clearing textboxes.png>)
+
+    -this screanshot shows clearing textbox using clear()function only. but you can use other two ways if you want.
+
+  # The following screenshot shows how we can clear label control in C#. 
+
+    ![clearing label control](<screanshots/Clearing label control.png>)
+
+    -this screanshot shows clearing label control, but note in c# you cant use clear() function, only you can use two other ways.
+
+
+
+  #  also,we discussed this concept: exiting form
+
   when you want to exit the from you can use this method.
   this keyword plus .operator plus close() method
+
   -sytax:
   this.close();
-  
 
-   # also,we discuss this concept: datatypes & their types
+ # The following screenshot shows how we can close the form in C#.
+
+ ![close form](<screanshots/Exit form.png>)
+
+
+   # also,we discussed this concept: datatypes & their types
 
     primitive data types are claasified in three categories
 
@@ -34,7 +54,7 @@
         -special types: objects,dynamic,var,delagte
 
 
-  # also we discuss this concept: Assignment Ccompatibility
+  # also we discussed this concept: Assignment Ccompatibility
     
     -string= only accept string
     -int= only accept integer
@@ -47,7 +67,7 @@
  ------------
  650m --this means decimal datatype.
 
- # also,we discuss this concept:  Explicit conversion
+ # also,we discussed this concept:  Explicit conversion
 
  c# allows you to explicity convert among types which is known as "type casting". 
  like this : int=decimal -- we use : cast operator();
@@ -65,6 +85,15 @@
   -syntax:
   datatype.parse().
   .when you make changing datatypes you must use same datatype.
+
+  # The following screenshot shows how we can make explicit conversion in C#.
+
+  ![Explicit conversion](<screanshots/Explicit conversion.png>)
+
+
+  All of those concepts were discussed last week which are our second week at the university
+
+
 
   
 
