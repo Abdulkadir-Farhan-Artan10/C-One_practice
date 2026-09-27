@@ -1,5 +1,5 @@
-# Discusss chapter 2
-# Week 2 - we are in chaper two
+# Discussion chapter 2
+# Week 2 - we were in chaper two
      
 ## Overview
 
@@ -15,13 +15,13 @@
 
   # The following screenshot shows how we can clear textbox in C#. 
 
-    ![clearing_textboxes](<screanshots/Clearing textboxes.png>)
+![clearing textbox](<screanshots/Clearing textboxes.png>)
 
     -this screanshot shows clearing textbox using clear()function only. but you can use other two ways if you want.
 
   # The following screenshot shows how we can clear label control in C#. 
 
-    ![clearing label control](<screanshots/Clearing label control.png>)
+![clearing label](<screanshots/Clearing label control.png>)
 
     -this screanshot shows clearing label control, but note in c# you cant use clear() function, only you can use two other ways.
 
@@ -91,7 +91,7 @@
   ![Explicit conversion](<screanshots/Explicit conversion.png>)
 
 
-  All of those concepts were discussed last week which are our second week at the university
+  All of those concepts were discussed last week which was our second week at the university
 
 
 
