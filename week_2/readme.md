@@ -18,18 +18,13 @@ its Clear method.
 • A data type determines what kind of value a variable can store.
 • Choose meaningful variable names. Names cannot contain spaces or be
 reserved keywords; they begin with a letter or underscore.
-• A string stores a sequence of characters, such as names or phone
-numbers.
-• String concatenation joins strings together. The + operator is
-used for this purpose.
+• A string stores a sequence of characters, such as names or   phone numbers.
+• String concatenation joins strings together. The + operator is used for this purpose.
 • A variable must be assigned a value before it is read.
 • Variables declared inside a method are local variables. Their
-scope is limited to that method, and their lifetime ends when the
-method finishes.
-• Two variables cannot have the same name in the same scope, but
-different methods may have local variables with the same name.
-• Assignment is allowed only when the value is compatible with the
-variable’s data type.
+scope is limited to that method, and their lifetime ends when the method finishes.
+• Two variables cannot have the same name in the same scope, but different methods may have local variables with the same name.
+• Assignment is allowed only when the value is compatible with the variable’s data type.
 • Multiple variables of the same type can be declared in one
 declaration statement.
 
@@ -39,35 +34,24 @@ declaration statement.
 • double: stores real numbers, including fractional values.
 • decimal: stores real numbers with greater precision and is
 commonly used for financial values.
-• Numeric literals are written as numbers, not quoted strings. A
-decimal literal uses the m or M suffix.
-• C# does not allow every numeric type to be assigned to every other
-numeric type implicitly. Explicit conversion (casting) can be used
-where appropriate.
+• Numeric literals are written as numbers, not quoted strings. A decimal literal uses the m or M suffix.
+• C# does not allow every numeric type to be assigned to every other numeric type implicitly. Explicit conversion (casting) can be used where appropriate.
 • var lets the compiler infer a local variable’s type from its
-initialization value. It must be initialized when declared and is
-limited to local variables.
+initialization value. It must be initialized when declared and is limited to local variables.
 
 # Performing Calculations
 
-• Arithmetic operators include addition, subtraction, multiplication,
-division, and modulus (remainder).
+• Arithmetic operators include addition, subtraction, multiplication, division, and modulus (remainder).
 • Parentheses can clarify or control the order of operations.
-• Mixed numeric operations follow type-conversion rules; an operation
-combining double and decimal is not allowed directly.
+• Mixed numeric operations follow type-conversion rules; an operation combining double and decimal is not allowed directly.
 • Integer division of two integers produces an integer result,
-discarding any fractional part. Use a floating-point operand when a
-fractional result is needed.
+discarding any fractional part. Use a floating-point operand when a fractional result is needed.
 
 # Numeric Input and Output
 
-• Keyboard input read through a TextBox is a string, even when it
-looks numeric.
-• Convert numeric text to a numeric type with the appropriate Parse
-method, such as int.Parse, double.Parse, or decimal.Parse.
-• A control’s Text property expects text. Convert numeric values to
-strings with ToString() before assigning them to a TextBox or
-Label.
+• Keyboard input read through a TextBox is a string, even when it looks numeric.
+• Convert numeric text to a numeric type with the appropriate Parse method, such as int.Parse, double.Parse, or decimal.Parse.
+• A control’s Text property expects text. Convert numeric values to strings with ToString() before assigning them to a TextBox or Label.
 • ToString() can also apply number formats, including number,
 fixed-point, exponential, currency, and percentage formats.
 
