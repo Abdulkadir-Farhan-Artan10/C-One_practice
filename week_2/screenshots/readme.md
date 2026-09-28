@@ -54,7 +54,7 @@ How It Works
 3. The full name is assigned to the Label.
 4. The Label displays the user’s full name on the Windows Forms interface.
 
-# ![alt text](<Clearing textboxes.png>)
+# ![clearinf textbox](<Clearing textboxes.png>)
 
 
 This section demonstrates how to clear the contents of multiple TextBox controls in a C# Windows Forms application using the Clear() method.
