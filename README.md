@@ -67,12 +67,7 @@ After completing the course, students should be able to:
 * Lecture 07 - Arrays and Lists
 * Lecture 08 - ADO.NET
 * Lecture 09 - Desktop Application Development
-### Labs
-* Lab 01
-* Lab 02
-* Lab 03
-* Lab 04
-* Lab 05
+
 ### Assignments
 * Assignment 01
 * Assignment 02

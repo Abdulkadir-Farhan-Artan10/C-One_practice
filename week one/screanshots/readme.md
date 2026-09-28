@@ -1,4 +1,4 @@
-## this readme demonstates the explanation of the codes which are in the screenshots.
+## this readme demonstrates the explanation of the codes which are in the screenshots.
 
 # ![message box](messagebox.png)
 

@@ -1,4 +1,4 @@
-## this readme demonstates the explanation of the codes which are in the screenshots.
+## this readme demonstrates the explanation of the codes which are in the screenshots.
 
 # ![creating variables](<creating variables to store using input.png>)
 
