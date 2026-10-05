@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\c#(C-SHARP)  folder\\Test_score_Average\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9395CD8-06F3-44AB-961B-E604FBA6F083}|Test_score_Average\\Test_score_Average.csproj|C:\\Users\\hp\\Documents\\c#(C-SHARP)  folder\\Test_score_Average\\test_score_average\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9395CD8-06F3-44AB-961B-E604FBA6F083}|Test_score_Average\\Test_score_Average.csproj|solutionrelative:test_score_average\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9395CD8-06F3-44AB-961B-E604FBA6F083}|Test_score_Average\\Test_score_Average.csproj|c:\\users\\hp\\documents\\c#(c-sharp)  folder\\test_score_average\\test_score_average\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9395CD8-06F3-44AB-961B-E604FBA6F083}|Test_score_Average\\Test_score_Average.csproj|solutionrelative:test_score_average\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\c#(C-SHARP)  folder\\Test_score_Average\\Test_score_Average\\Form1.cs",
+              "RelativeDocumentMoniker": "Test_score_Average\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\c#(C-SHARP)  folder\\Test_score_Average\\Test_score_Average\\Form1.cs",
+              "RelativeToolTip": "Test_score_Average\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:54:17.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\c#(C-SHARP)  folder\\Test_score_Average\\Test_score_Average\\Form1.cs",
+              "RelativeDocumentMoniker": "Test_score_Average\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\c#(C-SHARP)  folder\\Test_score_Average\\Test_score_Average\\Form1.cs [Design]",
+              "RelativeToolTip": "Test_score_Average\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:52:21.087Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Test_score_Average\Test_score_Average\bin\Debug\Test_score_Average.exe.config
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Test_score_Average\Test_score_Average\bin\Debug\Test_score_Average.exe
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Test_score_Average\Test_score_Average\bin\Debug\Test_score_Average.pdb
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Test_score_Average\Test_score_Average\obj\Debug\Test_score_Average.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Test_score_Average\Test_score_Average\obj\Debug\Test_score_Average.Form1.resources
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Test_score_Average\Test_score_Average\obj\Debug\Test_score_Average.Properties.Resources.resources
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Test_score_Average\Test_score_Average\obj\Debug\Test_score_Average.csproj.GenerateResource.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Test_score_Average\Test_score_Average\obj\Debug\Test_score_Average.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Test_score_Average\Test_score_Average\obj\Debug\Test_score_Average.exe
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Test_score_Average\Test_score_Average\obj\Debug\Test_score_Average.pdb
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Test_score_Average\Test_score_Average\obj\Debug\Test_score_Average.exe.config
