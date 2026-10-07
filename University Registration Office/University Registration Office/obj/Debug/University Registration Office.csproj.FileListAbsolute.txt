@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\c#(C-SHARP)  folder\University Registration Office\University Registration Office\obj\Debug\University Registration Office.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\University Registration Office\University Registration Office\obj\Debug\University_Registration_Office.Form1.resources
+C:\Users\hp\Documents\c#(C-SHARP)  folder\University Registration Office\University Registration Office\obj\Debug\University_Registration_Office.Properties.Resources.resources
+C:\Users\hp\Documents\c#(C-SHARP)  folder\University Registration Office\University Registration Office\obj\Debug\University Registration Office.csproj.GenerateResource.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\University Registration Office\University Registration Office\obj\Debug\University Registration Office.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\University Registration Office\University Registration Office\bin\Debug\University Registration Office.exe.config
+C:\Users\hp\Documents\c#(C-SHARP)  folder\University Registration Office\University Registration Office\bin\Debug\University Registration Office.exe
+C:\Users\hp\Documents\c#(C-SHARP)  folder\University Registration Office\University Registration Office\bin\Debug\University Registration Office.pdb
+C:\Users\hp\Documents\c#(C-SHARP)  folder\University Registration Office\University Registration Office\obj\Debug\University Registration Office.exe
+C:\Users\hp\Documents\c#(C-SHARP)  folder\University Registration Office\University Registration Office\obj\Debug\University Registration Office.pdb
+C:\Users\hp\Documents\c#(C-SHARP)  folder\University Registration Office\University Registration Office\obj\Debug\University Registration Office.exe.config
