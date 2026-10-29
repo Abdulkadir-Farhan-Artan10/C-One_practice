@@ -23,7 +23,7 @@ In this example, the program checks the selected item and displays the appropria
 5. This process helps ensure that the program checks the user’s selection before processing the item.
 
 
-## ![Nested if](<nested-if copy.png>)
+## ![nested if](nested-if.png)
 
 < Nested If Statements in C# Windows Forms
 
