@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\c#(C-SHARP)  folder\File creating _example\File creating _example\bin\Debug\File creating _example.exe.config
+C:\Users\hp\Documents\c#(C-SHARP)  folder\File creating _example\File creating _example\bin\Debug\File creating _example.exe
+C:\Users\hp\Documents\c#(C-SHARP)  folder\File creating _example\File creating _example\bin\Debug\File creating _example.pdb
+C:\Users\hp\Documents\c#(C-SHARP)  folder\File creating _example\File creating _example\obj\Debug\File creating _example.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\File creating _example\File creating _example\obj\Debug\File_creating__example.Form1.resources
+C:\Users\hp\Documents\c#(C-SHARP)  folder\File creating _example\File creating _example\obj\Debug\File_creating__example.Properties.Resources.resources
+C:\Users\hp\Documents\c#(C-SHARP)  folder\File creating _example\File creating _example\obj\Debug\File creating _example.csproj.GenerateResource.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\File creating _example\File creating _example\obj\Debug\File creating _example.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\File creating _example\File creating _example\obj\Debug\File creating _example.exe
+C:\Users\hp\Documents\c#(C-SHARP)  folder\File creating _example\File creating _example\obj\Debug\File creating _example.pdb
+C:\Users\hp\Documents\c#(C-SHARP)  folder\File creating _example\File creating _example\obj\Debug\File creating _example.exe.config

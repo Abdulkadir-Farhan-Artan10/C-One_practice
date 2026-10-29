@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\c#(C-SHARP)  folder\STUDENT Course Registration System\STUDENT Course Registration System\obj\Debug\STUDENT Course Registration System.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\STUDENT Course Registration System\STUDENT Course Registration System\obj\Debug\STUDENT_Course_Registration_System.Form1.resources
+C:\Users\hp\Documents\c#(C-SHARP)  folder\STUDENT Course Registration System\STUDENT Course Registration System\obj\Debug\STUDENT_Course_Registration_System.Properties.Resources.resources
+C:\Users\hp\Documents\c#(C-SHARP)  folder\STUDENT Course Registration System\STUDENT Course Registration System\obj\Debug\STUDENT Course Registration System.csproj.GenerateResource.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\STUDENT Course Registration System\STUDENT Course Registration System\obj\Debug\STUDENT Course Registration System.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\STUDENT Course Registration System\STUDENT Course Registration System\bin\Debug\STUDENT Course Registration System.exe.config
+C:\Users\hp\Documents\c#(C-SHARP)  folder\STUDENT Course Registration System\STUDENT Course Registration System\bin\Debug\STUDENT Course Registration System.exe
+C:\Users\hp\Documents\c#(C-SHARP)  folder\STUDENT Course Registration System\STUDENT Course Registration System\bin\Debug\STUDENT Course Registration System.pdb
+C:\Users\hp\Documents\c#(C-SHARP)  folder\STUDENT Course Registration System\STUDENT Course Registration System\obj\Debug\STUDENT Course Registration System.exe
+C:\Users\hp\Documents\c#(C-SHARP)  folder\STUDENT Course Registration System\STUDENT Course Registration System\obj\Debug\STUDENT Course Registration System.pdb
+C:\Users\hp\Documents\c#(C-SHARP)  folder\STUDENT Course Registration System\STUDENT Course Registration System\obj\Debug\STUDENT Course Registration System.exe.config

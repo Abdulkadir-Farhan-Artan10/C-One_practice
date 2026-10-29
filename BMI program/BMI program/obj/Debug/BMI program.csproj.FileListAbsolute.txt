@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\c#(C-SHARP)  folder\BMI program\BMI program\obj\Debug\BMI program.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\BMI program\BMI program\obj\Debug\BMI_program.Form1.resources
+C:\Users\hp\Documents\c#(C-SHARP)  folder\BMI program\BMI program\obj\Debug\BMI_program.Properties.Resources.resources
+C:\Users\hp\Documents\c#(C-SHARP)  folder\BMI program\BMI program\obj\Debug\BMI program.csproj.GenerateResource.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\BMI program\BMI program\obj\Debug\BMI program.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\BMI program\BMI program\bin\Debug\BMI program.exe.config
+C:\Users\hp\Documents\c#(C-SHARP)  folder\BMI program\BMI program\bin\Debug\BMI program.exe
+C:\Users\hp\Documents\c#(C-SHARP)  folder\BMI program\BMI program\bin\Debug\BMI program.pdb
+C:\Users\hp\Documents\c#(C-SHARP)  folder\BMI program\BMI program\obj\Debug\BMI program.exe
+C:\Users\hp\Documents\c#(C-SHARP)  folder\BMI program\BMI program\obj\Debug\BMI program.pdb
+C:\Users\hp\Documents\c#(C-SHARP)  folder\BMI program\BMI program\obj\Debug\BMI program.exe.config

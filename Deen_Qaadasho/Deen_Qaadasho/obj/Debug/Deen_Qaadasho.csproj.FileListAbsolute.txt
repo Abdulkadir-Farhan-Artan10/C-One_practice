@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Deen_Qaadasho\Deen_Qaadasho\bin\Debug\Deen_Qaadasho.exe.config
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Deen_Qaadasho\Deen_Qaadasho\bin\Debug\Deen_Qaadasho.exe
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Deen_Qaadasho\Deen_Qaadasho\bin\Debug\Deen_Qaadasho.pdb
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Deen_Qaadasho\Deen_Qaadasho\obj\Debug\Deen_Qaadasho.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Deen_Qaadasho\Deen_Qaadasho\obj\Debug\Deen_Qaadasho.Form1.resources
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Deen_Qaadasho\Deen_Qaadasho\obj\Debug\Deen_Qaadasho.Properties.Resources.resources
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Deen_Qaadasho\Deen_Qaadasho\obj\Debug\Deen_Qaadasho.csproj.GenerateResource.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Deen_Qaadasho\Deen_Qaadasho\obj\Debug\Deen_Qaadasho.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Deen_Qaadasho\Deen_Qaadasho\obj\Debug\Deen_Qaadasho.exe
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Deen_Qaadasho\Deen_Qaadasho\obj\Debug\Deen_Qaadasho.pdb
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Deen_Qaadasho\Deen_Qaadasho\obj\Debug\Deen_Qaadasho.exe.config

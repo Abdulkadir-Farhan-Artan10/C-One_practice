@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\c#(C-SHARP)  folder\first_example of ca242\first_example of ca242\bin\Debug\first_example of ca242.exe.config
+C:\Users\hp\Documents\c#(C-SHARP)  folder\first_example of ca242\first_example of ca242\bin\Debug\first_example of ca242.exe
+C:\Users\hp\Documents\c#(C-SHARP)  folder\first_example of ca242\first_example of ca242\bin\Debug\first_example of ca242.pdb
+C:\Users\hp\Documents\c#(C-SHARP)  folder\first_example of ca242\first_example of ca242\obj\Debug\first_example of ca242.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\first_example of ca242\first_example of ca242\obj\Debug\first_example_of_ca242.Form1.resources
+C:\Users\hp\Documents\c#(C-SHARP)  folder\first_example of ca242\first_example of ca242\obj\Debug\first_example_of_ca242.Properties.Resources.resources
+C:\Users\hp\Documents\c#(C-SHARP)  folder\first_example of ca242\first_example of ca242\obj\Debug\first_example of ca242.csproj.GenerateResource.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\first_example of ca242\first_example of ca242\obj\Debug\first_example of ca242.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\first_example of ca242\first_example of ca242\obj\Debug\first_example of ca242.exe
+C:\Users\hp\Documents\c#(C-SHARP)  folder\first_example of ca242\first_example of ca242\obj\Debug\first_example of ca242.pdb
+C:\Users\hp\Documents\c#(C-SHARP)  folder\first_example of ca242\first_example of ca242\obj\Debug\first_example of ca242.exe.config

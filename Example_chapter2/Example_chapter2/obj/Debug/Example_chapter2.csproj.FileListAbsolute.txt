@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Example_chapter2\Example_chapter2\bin\Debug\Example_chapter2.exe.config
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Example_chapter2\Example_chapter2\bin\Debug\Example_chapter2.exe
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Example_chapter2\Example_chapter2\bin\Debug\Example_chapter2.pdb
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Example_chapter2\Example_chapter2\obj\Debug\Example_chapter2.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Example_chapter2\Example_chapter2\obj\Debug\Example_chapter2.Form1.resources
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Example_chapter2\Example_chapter2\obj\Debug\Example_chapter2.Properties.Resources.resources
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Example_chapter2\Example_chapter2\obj\Debug\Example_chapter2.csproj.GenerateResource.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Example_chapter2\Example_chapter2\obj\Debug\Example_chapter2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Example_chapter2\Example_chapter2\obj\Debug\Example_chapter2.exe
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Example_chapter2\Example_chapter2\obj\Debug\Example_chapter2.pdb
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Example_chapter2\Example_chapter2\obj\Debug\Example_chapter2.exe.config
