@@ -22,7 +22,7 @@ ReadAllLines() reads all lines from a text file and stores them in an array of s
 
 This method is useful when an application needs to access and process all lines in a file.
 
-# 1.1 ReadLines()
+# 1.2 ReadLines()
 
 ReadLines() provides the lines of a text file as a sequence. Unlike ReadAllLines(), it does not load all the lines into memory at once.
 
